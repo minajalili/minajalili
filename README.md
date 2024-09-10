@@ -1,6 +1,6 @@
 # Hello, I'm Mina! 👋
 
-I'm Frontend Developer with nearly three years of experience in front-end development.
+I'm Frontend Developer over three years of experience in front-end development.
 
 ## About Me
 
